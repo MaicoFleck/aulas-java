@@ -1,26 +1,26 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 
-public class main {
-    public static void main(String args[]) {
-        Scanner entrada = new Scanner(System.in);
+//public class main {
+    //public static void main(String args[]) {
+        //Scanner entrada = new Scanner(System.in);
 
-        System.out.println( "Seu nome:");
-        String Nome = entrada.nextLine();
+       // System.out.println( "Seu nome:");
+        //String Nome = entrada.nextLine();
 
-         System.out.println( "Sua idade:");
-         int idade = entrada.nextInt();
-        entrada.nextLine();
+         //System.out.println( "Sua idade:");
+         //int idade = entrada.nextInt();
+       // entrada.nextLine();
 
-          System.out.println( "Seu tamanho:");
-          double Tamanho = entrada.nextDouble();
-          entrada.nextLine();
+         // System.out.println( "Seu tamanho:");
+         // double Tamanho = entrada.nextDouble();
+         // entrada.nextLine();
 
-          entrada.close();
+          //entrada.close();
 
-          System.out.println ("\n teste " + nome + "nome" + idade + "idade" + Tamanho + "tamanho");
-    }
-}
+          //System.out.println ("\n teste " + nome + "nome" + idade + "idade" + Tamanho + "tamanho");
+   // }
+//}
 
 
   
@@ -43,5 +43,11 @@ public class main {
         //System.out.println("O terceiro valor:");
         //System.out.println(inteiros[2]);
 
+//int idade = leitor.nextLine();
+//leitor.nextLine();
 
 
+//calculo de media de 4 valores
+//soma = valores
+//media = soma /4
+//e saida
