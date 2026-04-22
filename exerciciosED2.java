@@ -39,7 +39,7 @@ public class exerciciosED2 {
         System.out.println(x);
         x+=2;
         System.out.println(x);
-        x+=2;
+        x +       2;
         
 
 

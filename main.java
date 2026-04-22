@@ -51,3 +51,7 @@
 //soma = valores
 //media = soma /4
 //e saida
+
+// for = durante
+// while = enquanto
+// do-while = faça enquanto
